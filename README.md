@@ -1,13 +1,12 @@
-## Hi there 👋<h2>👋 - Hi visitor</h2>
+## Hi there 👋<h2>👋 - Hey guys it's me https://github.com/Secretguy840</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=500&duration=550&pause=700&color=20F77B&width=9500&height=1000&lines=Whats+up;Everything+Is+Illusion;Have+A+Good+Day;And+Eat+Good+Day+Biscuits;Thanks+for+Eating+Good+Day.">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=500&duration=1000&pause=1000&color=20F77B&width=9500&height=1000&lines=HEY+GUYS+IT'S+ME;https://github.com/Secretguy840;THANKS+FOR+VISITING.">
 ***
 
 
 <h3>I'm Secretguy840 </h3>
-<p>: I am a 9th class student who like coding in github . Please check my Repositories TO KNOW ABOUT MY KNOWLEDGE in coding .</p>
-<p>:heart: I am what you can call a mad child. Actually i am also learning french.</p>
-<h3 align="center"> I am calling https://github.com/hidden-user-sk , let's play with Pokemon cards together</h3>
+<p>: I am https://github.com/Secretguy840.</p>
+<h3 align="center"> Hey guys welcome to my new ACCOUNT.</h3>
 <table align="center">
   <thead>
     <tr>
