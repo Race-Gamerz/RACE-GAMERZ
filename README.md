@@ -75,6 +75,10 @@ Keep the bird flying!
 You have to Win!  
 [![semantris](https://img.shields.io/badge/Play-semantris%20-Pink)](https://research.google.com/semantris/)
 
+### 8. **Emoji Scavenger Hunt**
+Find out fast!  
+[![Emoji Scavenger Hunt](https://img.shields.io/badge/Play-Emoji Scavenger Hunt%20-red)](https://archive.google/emojiscavengerhunt/)
+
 ###
 <h3 align="center">A classic Minesweeper</h3>
 <p align="center">
