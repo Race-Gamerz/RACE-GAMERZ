@@ -71,6 +71,10 @@ Eat those dots and avoid ghosts!
 Keep the bird flying!  
 [![Play Flappy Bird](https://img.shields.io/badge/Play-Flappy%20Bird-blueviolet)](https://flappybird.io/)
 
+### 7. **semantris**
+You have to Win!  
+[![semantris](https://img.shields.io/badge/Play-semantris%20-Pink)](https://research.google.com/semantris/)
+
 ###
 <h3 align="center">A classic Minesweeper</h3>
 <p align="center">
