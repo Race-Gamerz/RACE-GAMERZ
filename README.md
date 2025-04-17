@@ -590,6 +590,15 @@ Find out fast!
     </tr>
   </tbody>
 </table>
+<h1 align="center">Social Accounts</h1>
+
+### 1. **Github**  
+[![Secretguy840](https://img.shields.io/badge/Veiw-Secretguy840-Yellow)](https://github.com/Secretguy840)
+### 2. **Discord**
+[![Discord](https://img.shields.io/badge/Veiw-discord-Green)](https://discord.com/channels/@me)
+### 3. **X**
+[![X](https://img.shields.io/badge/Veiw-X-blueviolet)](https://x.com/SecretGuy840)
+
 
 <h1 align="center">Technical skills</h1>
 <h3 align="left">Currently learning:
