@@ -783,6 +783,7 @@ Welcome to Race-Gamerz, the ultimate gaming profile for speedrunners, competitiv
 🏆 Specialty: Racing Games, FPS, Open-World Adventures
 🎯 Playstyle: Competitive, Speedrunning, High-Octane Action
 💻 Platforms: PC, PlayStation, Xbox, Nintendo Switch
+📺Binary name:01010011 01101000 01101001 01110110 01100001 01101110 01110011 01101000 00100000 01001011 01101000 01100001 01101110 01100100 01100101 01101100 01110111 01100001 01101100
 
 🏎️ Favorite Games
 Game	Genre	High Score/Best Time
