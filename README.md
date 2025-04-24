@@ -82,6 +82,10 @@ You have to Win!
 Find out fast!  
 [![Emoji Scavenger Hunt](https://img.shields.io/badge/Play-EmojiScavengerHunt%20-red)](https://archive.google/emojiscavengerhunt/)
 
+### 9. **Quick Draw**
+Draw fast!  
+[![Quick Draw](https://img.shields.io/badge/Play-QuickDraw%20-yellow)](https://quickdraw.withgoogle.com/)
+
 ###
 <h3 align="center">A classic Minesweeper</h3>
 <p align="center">
