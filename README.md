@@ -86,6 +86,9 @@ Find out fast!
 Draw fast!  
 [![Quick Draw](https://img.shields.io/badge/Play-QuickDraw%20-yellow)](https://quickdraw.withgoogle.com/)
 
+### 10. **Sonic**
+Play Fast!  
+[![Sonic](https://img.shields.io/badge/Play-Sonic%20-blue)](https://www.allsonicgames.net/)
 ###
 <h3 align="center">A classic Minesweeper</h3>
 <p align="center">
