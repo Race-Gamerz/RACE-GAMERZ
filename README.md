@@ -745,9 +745,12 @@ Play Fast!
   <details>
     <summary><h4>📚📖⬇️READ DIARY OF A WIMPY KID WRITE HERE⬇️📖📚</h4></summary>
     
-### 1. **Github** 
-[![Hotmess](https://img.shields.io/ess-rebadge/Read-HotMess-red)](https://online.fliphtml5.com/cpnwz/fjcr/#p=1)
-###
+### 1. **Diary of a wimpy kid**
+[![DOWK](https://img.shields.io/badge/Read-DOWK-red)](https://online.fliphtml5.com/jrmc/uitd/#p=1)
+
+### 1. **HOT MESS** 
+[![Hotmess](https://img.shields.io/badge/Read-HotMess-red)](https://online.fliphtml5.com/cpnwz/fjcr/#p=1)
+
 </details>
   <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
@@ -770,7 +773,7 @@ Play Fast!
 <details>
   <summary><h4>⚡ Recent Activity ✅</h4></summary>
     <p align="left">
-        <a href="https://github.com/offensive-vk/">
+        <a href="https://github.com/RACE-GAMERZ/">
             <img align='right' width=300 height=300 src="https://github-contribution-stats.vercel.app/api/?username=Secretguy840/" alt='stats'>
         </a>
     </p>
