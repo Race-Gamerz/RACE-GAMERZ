@@ -743,6 +743,13 @@ Play Fast!
   </a>
 </p>
   <details>
+    <summary><h4>📚📖⬇️READ DIARY OF A WIMPY KID WRITE HERE⬇️📖📚</h4></summary>
+    
+### 1. **Github** 
+[![Hotmess](https://img.shields.io/ess-rebadge/Read-HotMess-red)](https://online.fliphtml5.com/cpnwz/fjcr/#p=1)
+###
+</details>
+  <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
     <div align="center">
       <picture>
