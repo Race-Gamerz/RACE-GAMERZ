@@ -751,6 +751,9 @@ Play Fast!
 ### 1. **HOT MESS** 
 [![Hotmess](https://img.shields.io/badge/Read-HotMess-red)](https://online.fliphtml5.com/cpnwz/fjcr/#p=1)
 
+### 10. **Wrecking Ball**
+Play Fast!  
+[![Wrecking Ball](https://img.shields.io/badge/Read-WreckingBall%20-grey)](https://online.fliphtml5.com/kgfwn/kfcv/#p=1)
 </details>
   <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
