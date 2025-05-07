@@ -748,7 +748,10 @@ Play Fast!
 ### 1. **Diary of a wimpy kid**
 [![DOWK](https://img.shields.io/badge/Read-DOWK-red)](https://online.fliphtml5.com/jrmc/uitd/#p=1)
 
-### 1. **HOT MESS** 
+### 1. **Rodrick Rules**
+[![RodrickRules](https://img.shields.io/badge/Read-RodrickRules-blue)](https://online.fliphtml5.com/gutjj/qwwj/#p=1)
+
+### 2. **HOT MESS** 
 [![Hotmess](https://img.shields.io/badge/Read-HotMess-red)](https://online.fliphtml5.com/cpnwz/fjcr/#p=1)
 
 ### 3. **Wrecking Ball**  
