@@ -748,16 +748,22 @@ Play Fast!
 ### 1. **Diary of a wimpy kid**
 [![DOWK](https://img.shields.io/badge/Read-DOWK-red)](https://online.fliphtml5.com/jrmc/uitd/#p=1)
 
-### 1. **Rodrick Rules**
+### 2. **Rodrick Rules**
 [![RodrickRules](https://img.shields.io/badge/Read-RodrickRules-blue)](https://online.fliphtml5.com/gutjj/qwwj/#p=1)
 
-### 2. **HOT MESS** 
-[![Hotmess](https://img.shields.io/badge/Read-HotMess-red)](https://online.fliphtml5.com/cpnwz/fjcr/#p=1)
+### 3. **The Last Straw** 
+[![The Last Straw](https://img.shields.io/badge/Read-TheLastStraw-Green)](https://online.fliphtml5.com/qtevf/calp/#p=1)
 
-### 3. **Wrecking Ball**  
+### 4.****  
 [![Wrecking Ball](https://img.shields.io/badge/Read-WreckingBall%20-grey)](https://online.fliphtml5.com/kgfwn/kfcv/#p=1)
 
-### 4. **No Brainer**
+### 5. **Squid Game** 
+[![Squid Game](https://img.shields.io/badge/Read-SquidGame-pink)](https://www.scribd.com/document/622301781/Diary-of-the-wimpy-kid-squid-game)
+
+### 6. **Wrecking Ball**  
+[![Wrecking Ball](https://img.shields.io/badge/Read-WreckingBall%20-grey)](https://online.fliphtml5.com/kgfwn/kfcv/#p=1)
+
+### 7. **No Brainer**
 [![No Brainer](https://img.shields.io/badge/Read-NoBrainer%20-green)](https://online.fliphtml5.com/xvlhn/jrgj/#p=1)
 </details>
 
