@@ -754,16 +754,19 @@ Play Fast!
 ### 3. **The Last Straw** 
 [![The Last Straw](https://img.shields.io/badge/Read-TheLastStraw-Green)](https://online.fliphtml5.com/qtevf/calp/#p=1)
 
-### 4.****  
+### 4. **Dog Days**
+[![Dog Days](https://img.shields.io/badge/Read-DogDays%20-yellow)](https://fliphtml5.com/qtevf/lklt/Diary_of_a_Wimpy_Kid_Book_04_-_Dog_Days_(_PDFDrive_)/)
+
+### 7. **The Third Wheel**
+[![The Third Wheel](https://img.shields.io/badge/Read-TheThirdWheel%20-brown)](https://online.fliphtml5.com/qtevf/ybwm/index.html#p=1)
+
+### 14.**Wrecking Ball**  
 [![Wrecking Ball](https://img.shields.io/badge/Read-WreckingBall%20-grey)](https://online.fliphtml5.com/kgfwn/kfcv/#p=1)
 
-### 5. **Squid Game** 
+### ♾️. **Squid Game** 
 [![Squid Game](https://img.shields.io/badge/Read-SquidGame-pink)](https://www.scribd.com/document/622301781/Diary-of-the-wimpy-kid-squid-game)
 
-### 6. **Wrecking Ball**  
-[![Wrecking Ball](https://img.shields.io/badge/Read-WreckingBall%20-grey)](https://online.fliphtml5.com/kgfwn/kfcv/#p=1)
-
-### 7. **No Brainer**
+### 18. **No Brainer**
 [![No Brainer](https://img.shields.io/badge/Read-NoBrainer%20-green)](https://online.fliphtml5.com/xvlhn/jrgj/#p=1)
 </details>
 
