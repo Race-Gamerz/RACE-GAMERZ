@@ -603,11 +603,11 @@ Play Fast!
 <h1 align="center">Social Accounts</h1>
 
 ### 1. **Github**  
-[![Secretguy840](https://img.shields.io/badge/Veiw-Secretguy840-Yellow)](https://github.com/Secretguy840)
+[![Secretguy840](https://img.shields.io/badge/Veiw-Secretguy840-red)](https://github.com/Secretguy840)
 ### 2. **Discord**
 [![Discord](https://img.shields.io/badge/Veiw-discord-blueviolet)](https://discord.com/channels/@me)
 ### 3. **X**
-[![X](https://img.shields.io/badge/Veiw-X-Green)](https://x.com/SecretGuy840)
+[![X](https://img.shields.io/badge/Veiw-X-black)](https://x.com/SecretGuy840)
 
 
 <h1 align="center">Technical skills</h1>
@@ -771,6 +771,9 @@ Play Fast!
 
 ### 9.**The Long Haul**  
 [![The Long Haul](https://img.shields.io/badge/Read-TheLongHaul%20-orange)](https://online.fliphtml5.com/qtevf/oixb/#p=1)
+
+### 10.**Old School**  
+[![Old School](https://img.shields.io/badge/Read-OldSchool%20-black)](https://fliphtml5.com/vvogw/nyeo/Old_School/)
 
 ### 14.**Wrecking Ball**  
 [![Wrecking Ball](https://img.shields.io/badge/Read-WreckingBall%20-grey)](https://online.fliphtml5.com/kgfwn/kfcv/#p=1)
