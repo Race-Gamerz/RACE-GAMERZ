@@ -793,6 +793,8 @@ Play Fast!
 ### **Volume 2**
 [![Volume 2](https://img.shields.io/badge/Read-Naruto2%20-Orange)](https://fliphtml5.com/bgpkm/qxrg/NARUTO_-_VOL_2/)
 
+### **Volume 3**
+[![Volume 3](https://img.shields.io/badge/Read-Naruto3%20-Orange)](https://fliphtml5.com/bgpkm/nige/NARUTO_-_VOL_3/)
 </details>
 
   <details>
