@@ -812,39 +812,12 @@ Play Fast!
     </div>
 </details>
 
-
-
-<details>
-  <summary><h3>✨ About Me &rarr;</h3></summary>
-  <details>
-    ➡️   What? Want More Activity? **[Click Here](./RECENT.md)**
-</details>
-<details>
-  <summary><h4>⚡ Recent Activity ✅</h4></summary>
-    <p align="left">
-        <a href="https://github.com/RACE-GAMERZ/">
-            <img align='right' width=300 height=300 src="https://github-contribution-stats.vercel.app/api/?username=Secretguy840/" alt='stats'>
-        </a>
-    </p>
-<p align="left">
-
-  <details>
-    <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
-    <div align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake-dark.svg" height=250 width=850 alt="snake" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake-light.svg" height=250 width=850 alt="snake" />
-        <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.gif" height=250 width=850 alt="snake" />
-     </picture>
-    </div>
-</details>
-
 # Motivation.com
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=2000&color=20F77B&width=1500&height=100&lines=WrongThinkingIsOnlyProblemInLife;RightThinkingIsOnlySolutionToAllOurProblems;SelflessnessIsTheOnlyWayToProgressAndProsperity;EveryActCanBeAnActOfPrayer;ConectToHigerConciousnessDaily;LiveWhatYouLearn;NeverGiveUpOnYourself;ValueYourBlessings;SeeDivinityAllAround;AbsorbYourMindIntoHigher;DetachFromMayaAndAttachToDivine;GiveProsperityToDivinity;BeingGoodIsAnRewardInItself">
 
 "Speed is my game, and victory is my name!" 🏁💨
 
-© 2024 Race-Gamerz | All Rights Reserved
+© 2025 Race-Gamerz | All Rights Reserved
 
 
 ---
