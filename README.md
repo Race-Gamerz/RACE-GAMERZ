@@ -45,11 +45,14 @@
 Hi there! I'm Shivansh khandelwal, a passionate developer who loves building cool stuff. Here's a little about me and some fun games you can play right here on my profile!
 
 ---
-
 ## 🎮 **Play Games Right Here!**
 
 Here are some fun games you can play directly on my GitHub profile:
 
+ <details>
+    <summary><h4>## 🎮 **Click Here to Play Games Right Here!PLEASE**</h4></summary>
+Here are some fun games you can play directly on my GitHub profile:
+   
 ### 1. **Tic-Tac-Toe**
 Play a quick game of Tic-Tac-Toe!  
 [![Play Tic-Tac-Toe](https://img.shields.io/badge/Play-Tic--Tac--Toe-blue)](https://playtictactoe.org/)
@@ -90,6 +93,8 @@ Draw fast!
 Play Fast!  
 [![Sonic](https://img.shields.io/badge/Play-Sonic%20-blue)](https://www.allsonicgames.net/)
 ###
+</details>
+
 <h3 align="center">A classic Minesweeper</h3>
 <p align="center">
   <span>:white_large_square:</span>
